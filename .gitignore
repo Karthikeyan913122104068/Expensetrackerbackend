@@ -55,7 +55,7 @@ coverage/
 *.tgz
 *.gz
 *.zip
-
+node_modules
 # Firebase
 .firebase/
 
